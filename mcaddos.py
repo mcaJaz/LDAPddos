@@ -35,8 +35,8 @@ urllib3.PoolManager()
  
 useragents=["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 Fennec/10.0.1","Mozilla/5.0 (Android; Linux armv7l; rv:2.0.1) Gecko/20100101 Firefox/4.0.1 Fennec/2.0.1","Mozilla/5.0 (WindowsCE 6.0; rv:2.0.1) Gecko/20100101 Firefox/4.0.1",]    
 #WagMoNgPalitanHAHA
-black_lists = ["pornhub.com"]
-black_lists = ["youjizz.com"]
+black_lists = ["arrahmah.id"]
+black_lists = ["republika.co.id"]
  
  
 def logo():
