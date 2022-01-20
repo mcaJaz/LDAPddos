@@ -48,20 +48,20 @@ def logo():
         os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title [+] ANONPRIXOR LDAP FLOOD [+]")
     print('''
  
- 
-\t$$$$$$$\                      
-\t$$  __$$\                     
-\t$$ |  $$ | $$$$$$\   $$$$$$$\ 
-\t$$ |  $$ |$$  __$$\ $$  _____|
-\t$$ |  $$ |$$ /  $$ |\$$$$$$\  
-\t$$ |  $$ |$$ |  $$ | \____$$\ 
-\t$$$$$$$  |\$$$$$$  |$$$$$$$  |
-\t\_______/  \______/ \_______/ 
- 
-============[%s AnonPrixor Dos V1.0 %s]===========  
+
+\t$$$$$$$\  $$$$$$$\              
+\t$$  __$$\ $$  __$$\               
+\t$$ |  $$ |$$ |  $$ | $$$$$$\   $$$$$$$\ 
+\t$$ |  $$ |$$ |  $$ |$$  __$$\ $$  _____|
+\t$$ |  $$ |$$ |  $$ |$$ /  $$ |\$$$$$$\  
+\t$$ |  $$ |$$ |  $$ |$$ |  $$ | \____$$\ 
+\t$$$$$$$  |$$$$$$$  |\$$$$$$  |$$$$$$$  |
+\t\_______/ \_______/  \______/ \_______/
+
+============[%s MCA DDos V1.0 %s]===========  
  \t     Version : python 3.x.x
  \t%s  2x Requests ~ UNLIMITED TIME!
-  \t  %sRecoded By Kaito   |  03/25/20%s
+  \t  %sReproClon By JazCyberTeam|21/02/2022%s
 ==============================================='''%(Y,G,W,R,G))
     try:
         print("\n[*] Target : "+W+str(url_main)+ ":" +str(port)+G)
@@ -167,7 +167,7 @@ def numthreads():
 			print("[!] Selected Threads "+str(threads)+" [!]\n Please Wait~!")
 			time.sleep(10)
 			for i in range(9999999999999999999):
-				print("\033[01;31m[+] LDAP ATTACK SENT")
+				print("\033[01;31m[+] LDAPddos Virus Terkirim")
 				time.sleep(0.0)
 	except ValueError:
 		print(W+"["+G+"!"+W+"]"+R+" Missed Threads"+G)
