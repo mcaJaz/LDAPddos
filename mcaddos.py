@@ -57,11 +57,13 @@ def logo():
 \t$$ |  $$ |$$ |  $$ |$$ |  $$ | \____$$\ 
 \t$$$$$$$  |$$$$$$$  |\$$$$$$  |$$$$$$$  |
 \t\_______/ \_______/  \______/ \_______/
+*************Moslem Cyber Army**********
+~~~~~~~~~~~~~~~A.  S.  C.  A.~~~~~~~~~~~
 
-============[%s MCA DDos V1.0 %s]============================  
- \t     Version : python 3.x.x
- \t%s  2x Requests ~ UNLIMITED TIME!
-  \t  %sReproClon By JazCyberTeam|21/02/2022%s
+===============[%s MCA DDos V1.0 %s]============================  
+ \t            Version : python 1.x.x
+ \t%s       2x Requests ~ UNLIMITED TIME!
+  \t%s ReproClon By JazCyberTeam|21/02/2022%s
 ============================================================='''%(Y,G,W,R,G))
     try:
         print("\n[*] Target : "+W+str(url_main)+ ":" +str(port)+G)
