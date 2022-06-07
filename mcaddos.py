@@ -68,7 +68,6 @@ def logo():
 \t ========================================== ''') 
 (Y,G,W,R,G)
 
-
     try:
         print("\n[*] Target : "+W+str(url_main)+ ":" +str(port)+G)
     except:
