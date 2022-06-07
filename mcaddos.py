@@ -61,11 +61,11 @@ def logo():
 \t     ************ Moslem Cyber Army **********
 \t     ~~~~~~~~~~~~~ A    S    C   A ~~~~~~~~~~~
 
-\t  ===============[%s MCA DDos V1.0 %s]====================  
+\t  ===============[%s MCA DDos V1.0 %s]============  
 \t                Version : python 1.x.x
 \t%s          2x Requests ~ UNLIMITED TIME!
 \t%s      ReproClon By JazCyberTeam|21/02/2022%s
-\t  ========================================================'''%(Y,G,W,R,G))
+\t  ================================================'''%(Y,G,W,R,G))
     try:
         print("\n[*] Target : "+W+str(url_main)+ ":" +str(port)+G)
     except:
