@@ -46,7 +46,7 @@ def logo():
         os.system('clear')
     else:
         os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title [+] ANONPRIXOR LDAP FLOOD [+]")
-    print(''''
+    print('''
  
 
 \t $$$$$$$\  $$$$$$$\              
@@ -66,7 +66,7 @@ def logo():
 \t                 UNLIMITED TIME!
 \t%s   ReproClone By JazCyberTeam|21/02/2022 %s
 \t% ==========================================%  
-    '''')
+    ''')
     (Y,G,W,R,G)
 
     try:
