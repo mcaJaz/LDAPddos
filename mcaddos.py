@@ -45,8 +45,8 @@ def logo():
     elif sys.platform.startswith("freebsd"):
         os.system('clear')
     else:
-        os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title [+] ANONPRIXOR LDAP FLOOD [+]")
-    printG+Y+R+W+G+Y+V;('''
+        os.system('color ' +random.choice(['R', 'V', 'W', 'G', 'N', 'Y'])+ " & cls & title [+] ANONPRIXOR LDAP FLOOD [+]")
+    print('''
  
 
 \t $$$$$$$\  $$$$$$$\              
