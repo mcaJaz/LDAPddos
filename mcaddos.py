@@ -65,7 +65,7 @@ def logo():
 \t              Version : python 1.x.x
 \t                 UNLIMITED TIME!
 \t%s   ReproClone By JazCyberTeam|21/02/2022%s
-\t% ==============================================% '''(Y,G,W,R,G))
+\t% ==============================================% ''')(Y,G,W,R,G)
     try:
         print("\n[*] Target : "+W+str(url_main)+ ":" +str(port)+G)
     except:
