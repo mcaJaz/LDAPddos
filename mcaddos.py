@@ -46,7 +46,7 @@ def logo():
         os.system('clear')
     else:
         os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title [+] ANONPRIXOR LDAP FLOOD [+]")
-    print (G,Y,R,W,G,Y,V)('''
+    print(G,Y,R,W,G,Y,V)('''
  
 
 \t $$$$$$$\  $$$$$$$\              
