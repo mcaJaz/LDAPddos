@@ -61,12 +61,12 @@ def logo():
 \t ************ Moslem Cyber Army **********
 \t ~~~~~~~~~~~~~ A    S    C   A ~~~~~~~~~~~
 
-\t =============[%s MCA DDos V1.0 %s]============  
-\t              Version : python 1.x.x
-\t                 UNLIMITED TIME!
-\t%s   ReproClone By JazCyberTeam|21/02/2022 %s
-\t% ==========================================%  
-    ''')
+\t =========[%s MCA DDos V1.0 %s]===========  
+\t          Version : python 1.x.x
+\t              UNLIMITED TIME!
+\t   ReproClone By JazCyberTeam|21/02/2022 
+\t =========================================  
+''')
     (Y,G,W,R,G)
 
     try:
