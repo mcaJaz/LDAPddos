@@ -70,7 +70,7 @@ def logo():
         print("\n[*] Target : "+W+str(url_main)+ ":" +str(port)+G)
     except:
         pass
-    try::
+    try:
         print(G+"[*] Method  "+W+str(name_method_attack)+G)
     except:
         pass
