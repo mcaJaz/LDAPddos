@@ -46,7 +46,7 @@ def logo():
         os.system('clear')
     else:
         os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title [+] ANONPRIXOR LDAP FLOOD [+]")
-    print(G,Y,R,W,G,Y,V)('''
+    print((G,Y,R,W,G,Y,V)('''
  
 
 \t $$$$$$$\  $$$$$$$\              
@@ -66,7 +66,7 @@ def logo():
 \t              UNLIMITED TIME!               
 \t   ReproClone By JazCyberTeam|21/02/2022    
 \t =========================================  
-''')
+'''))
 
     try:
         print("\n[*] Target : "+W+str(url_main)+ ":" +str(port)+G)
