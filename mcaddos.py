@@ -66,7 +66,7 @@ def logo():
 \t                 UNLIMITED TIME!
 \t   ReproClone By JazCyberTeam|21/02/2022
 \t ========================================== ''') 
-(Y,G,W,R,G)
+    (Y,G,W,R,G)
 
     try:
         print("\n[*] Target : "+W+str(url_main)+ ":" +str(port)+G)
