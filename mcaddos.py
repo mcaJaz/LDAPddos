@@ -47,7 +47,7 @@ def logo():
     else:
         os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title [+] ANONPRIXOR LDAP FLOOD [+]")     
         os.system("figlet -f  slant  mca2022")
-     print(G+'''
+        print(G+'''
 
 \t $$$$$$$\  $$$$$$$\              
 \t $$  __$$\ $$  __$$\               
