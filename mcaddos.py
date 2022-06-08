@@ -22,8 +22,8 @@ import time
 import figlet
 import toilet
 
-toilet MCA
-figlet mca
+toilet mca
+figlet 2022
 cls
 R = '\033[1;91m'
 V = '\033[1;95m'
