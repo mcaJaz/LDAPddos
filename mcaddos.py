@@ -1,6 +1,5 @@
 import os, sys
-import figlet
-import toilet
+import figlet, import toilet
 
 toilet mca
 figlet 2022
