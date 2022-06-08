@@ -38,7 +38,7 @@ useragents=["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firef
 black_lists = ["arrahmah.id"]
 black_lists = ["republika.co.id"]
  
- 
+os.system("figlet -f  slant  mca2022")
 def logo():
     if sys.platform.startswith("linux"):
         os.system('clear')
@@ -46,7 +46,6 @@ def logo():
         os.system('clear')
     else:
         os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title [+] ANONPRIXOR LDAP FLOOD [+]")     
-        os.system("figlet -f  slant  mca2022")
         print(G+'''
 
 \t $$$$$$$\  $$$$$$$\              
