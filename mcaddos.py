@@ -9,8 +9,8 @@ except:
         os.system("pip install pysocks requests wget cfscrape urllib3 scapy")   
     else:
         os.system("pip install pysocks requests wget cfscrape urllib3 scapy")
-    toilet mca
-    cls
+toilet mca
+cls
 import socket, socks, threading, random, re, os
 import sys, glob, time, requests, ssl, webbrowser
 import bz2, datetime, wget, json, cfscrape, urllib3
