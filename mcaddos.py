@@ -9,7 +9,8 @@ except:
         os.system("pip install pysocks requests wget cfscrape urllib3 scapy")   
     else:
         os.system("pip install pysocks requests wget cfscrape urllib3 scapy")
- 
+    toilet mca
+    cls
 import socket, socks, threading, random, re, os
 import sys, glob, time, requests, ssl, webbrowser
 import bz2, datetime, wget, json, cfscrape, urllib3
@@ -47,8 +48,6 @@ def logo():
     else:
         os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title [+] ANONPRIXOR LDAP FLOOD [+]")
     print(G+'''
- 
-toilet mca
 
 \t $$$$$$$\  $$$$$$$\              
 \t $$  __$$\ $$  __$$\               
