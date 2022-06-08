@@ -1,6 +1,4 @@
-import os, sys
-import toilet
-import figlet
+import os, sys("figlet -f  slant  mca2022")
 
 toilet mca
 figlet mca
