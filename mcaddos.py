@@ -43,9 +43,9 @@ def logo():
         os.system('clear')
     elif sys.platform.startswith("freebsd"):
         os.system('clear')
-    else:
-        os.system("figlet -f  slant  mca2022")
+    else:      
         os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title [+] ANONPRIXOR LDAP FLOOD [+]")     
+        os.system("figlet -f  slant  mca2022")
     print(G+'''
 
 \t $$$$$$$\  $$$$$$$\              
