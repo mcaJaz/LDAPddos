@@ -1,7 +1,5 @@
-import os, sys("figlet -f  slant  mca2022")
-
-toilet mca
-figlet mca
+import os
+os.system("figlet -f  slant  mca2022")
 
 try:
     import sys, socks, requests, wget, cfscrape, urllib3
