@@ -1,5 +1,4 @@
-import os
-os.system("figlet -f  slant  mca2022")
+import os,sys
 
 try:
     import sys, socks, requests, wget, cfscrape, urllib3
@@ -47,7 +46,11 @@ def logo():
         os.system('clear')
     else:
         os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title [+] ANONPRIXOR LDAP FLOOD [+]")
-    print(G+'''
+  
+     import os
+     os.system("figlet -f  slant  mca2022")
+
+     print(G+'''
 
 \t $$$$$$$\  $$$$$$$\              
 \t $$  __$$\ $$  __$$\               
