@@ -26,7 +26,9 @@ W = '\033[1;97m'
 G = '\033[1;92m'
 N = '\033[1;0m'
 Y = '\033[1;93m'
- 
+
+os.system("figlet -f  slant  mca2022")
+
 for i in range(1):
 	os.system("clear")
  
@@ -37,8 +39,6 @@ useragents=["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firef
 #WagMoNgPalitanHAHA
 black_lists = ["arrahmah.id"]
 black_lists = ["republika.co.id"]
- 
-os.system("figlet -f  slant  mca2022")
 
 def logo():
     if sys.platform.startswith("linux"):
