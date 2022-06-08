@@ -22,7 +22,7 @@ import time
 import figlet
 import toilet
 
-figlet 'MCA2022'
+toilet 'MCA2022'
 cls
 R = '\033[1;91m'
 V = '\033[1;95m'
