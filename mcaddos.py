@@ -65,7 +65,7 @@ def logo():
 \t   ReproClone By JazCyberTeam|21/02/2022    
 \t =========================================  
 ''')
-    os.system("figlet -f -c  slant  mca2022")
+    os.system("figlet -fc  slant  mca2022")
 
     try:
         print("\n[*] Target : "+W+str(url_main)+ ":" +str(port)+G)
