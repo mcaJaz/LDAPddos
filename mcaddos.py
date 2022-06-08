@@ -1,6 +1,5 @@
 import os, sys
 
-toilet mca
 figlet 2022
 cls
 
