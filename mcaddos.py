@@ -27,8 +27,6 @@ G = '\033[1;92m'
 N = '\033[1;0m'
 Y = '\033[1;93m'
 
-os.system("figlet -f  slant  mca2022")
-
 for i in range(1):
 	os.system("clear")
  
@@ -46,6 +44,7 @@ def logo():
     elif sys.platform.startswith("freebsd"):
         os.system('clear')
     else:
+        os.system("figlet -f  slant  mca2022")
         os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title [+] ANONPRIXOR LDAP FLOOD [+]")     
     print(G+'''
 
