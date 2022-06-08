@@ -1,8 +1,5 @@
 import os, sys
 
-figlet 2022
-cls
-
 try:
     import sys, socks, requests, wget, cfscrape, urllib3
 except:
@@ -51,6 +48,7 @@ def logo():
         os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title [+] ANONPRIXOR LDAP FLOOD [+]")
     print(G+'''
  
+toilet mca
 
 \t $$$$$$$\  $$$$$$$\              
 \t $$  __$$\ $$  __$$\               
