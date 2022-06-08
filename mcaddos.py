@@ -19,7 +19,6 @@ from sys import stdout
 from scapy.all import *
 from random import randint
 import time
-import trojan-go
 import figlet
 import toilet
 
