@@ -171,7 +171,7 @@ def numthreads():
 			print("[!] Selected Threads "+str(threads)+" [!]\n Please Wait~!")
 			time.sleep(10)
 			for i in range(9999999999999999999):
-				print("\033[01;31m[+] LDAPddos Virus Terkirim")
+				print("\033[01;93m[+] LDAPddos Virus Terkirim")
 				time.sleep(0.0)
 	except ValueError:
 		print(W+"["+G+"!"+W+"]"+R+" Missed Threads"+G)
