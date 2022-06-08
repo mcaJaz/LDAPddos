@@ -44,8 +44,7 @@ def logo():
     elif sys.platform.startswith("freebsd"):
         os.system('clear')
     else:      
-        os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title [+] ANONPRIXOR LDAP FLOOD [+]")     
-        os.system("figlet -f  slant  mca2022")
+        os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title [+] ANONPRIXOR LDAP FLOOD [+]")      
     print(G+'''
 
 \t $$$$$$$\  $$$$$$$\              
@@ -66,6 +65,7 @@ def logo():
 \t   ReproClone By JazCyberTeam|21/02/2022    
 \t =========================================  
 ''')
+os.system("figlet -f  slant  mca2022")
 
     try:
         print("\n[*] Target : "+W+str(url_main)+ ":" +str(port)+G)
