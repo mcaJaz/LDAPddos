@@ -39,6 +39,7 @@ black_lists = ["arrahmah.id"]
 black_lists = ["republika.co.id"]
  
 os.system("figlet -f  slant  mca2022")
+
 def logo():
     if sys.platform.startswith("linux"):
         os.system('clear')
