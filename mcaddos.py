@@ -1,5 +1,11 @@
 import os, sys
- 
+import figlet
+import toilet
+
+toilet mca
+figlet 2022
+cls
+
 try:
     import sys, socks, requests, wget, cfscrape, urllib3
 except:
@@ -19,12 +25,7 @@ from sys import stdout
 from scapy.all import *
 from random import randint
 import time
-import figlet
-import toilet
 
-toilet mca
-figlet 2022
-cls
 R = '\033[1;91m'
 V = '\033[1;95m'
 W = '\033[1;97m'
