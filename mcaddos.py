@@ -19,7 +19,12 @@ from sys import stdout
 from scapy.all import *
 from random import randint
 import time
- 
+import trojan-go
+import figlet
+import toilet
+
+Figlet MCA2022
+cls
 R = '\033[1;91m'
 V = '\033[1;95m'
 W = '\033[1;97m'
