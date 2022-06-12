@@ -59,7 +59,7 @@ def logo():
 \t ************ Moslem Cyber Army **********
 \t ~~~~~~~~~~~~~ A    S    C   A ~~~~~~~~~~~
 
-\t =========[%s MCA DDos V1.0 %s]===========  
+\t ===========[ MCA DDos V1.1 ]=============  
 \t          Version : python 1.x.x.           
 \t              UNLIMITED TIME!               
 \t   ReproClone By JazCyberTeam|21/02/2022    
